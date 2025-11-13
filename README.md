@@ -1,16 +1,44 @@
-## Hi there 👋
+![bg-linkedin](https://github.com/user-attachments/assets/71e1a225-1b58-430d-b3db-a61fbc056217)
 
-<!--
-**gevverson/gevverson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings and welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Engineering intelligent systems and evaluating large language models for precision, bias, and reasoning depth. Strong focus on modular logic, prompt testing, and behavioral quality of AI outputs.
+
+Focus areas:  
+- Scalable LLM pipelines  
+- AI pipelines optimized for traceable logic, modularity, and real-world execution. 
+- Human-machine interface tooling
+- Output scoring breakdowns (LLM grading)
+- Domain work (Logic, Ethics, Critique)
+- Systems architecture & reasoning frameworks
+
+Additional areas: numerical reasoning, logic optimization, UI/UX for intelligent systems.  
+Goal: streamlined, modular, and production-grade AI applications.
+
+---
+
+
+### Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gevverson&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/gevverson)  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gevverson&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gevverson&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gevverson&theme=dracula)
+---
+
+### Tech
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript&style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-async-green?logo=fastapi&style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-LLM-orange?style=flat)
+![Docker](https://img.shields.io/badge/Docker-containers-blue?logo=docker&style=flat)
+
+---
+
+### Links
+
+📫 [LinkedIn](https://linkedin.com/in/gevverson-kipkoech)
