@@ -1,23 +1,51 @@
 ![bg-linkedin](https://github.com/user-attachments/assets/71e1a225-1b58-430d-b3db-a61fbc056217)
 
-Greetings and welcome to my GitHub profile!
+# Hi there, I'm Gevverson Kipkoech 👋
 
-### Overview
+### AI Automation Engineer | Full-Stack Python Developer
 
-Engineering intelligent systems and evaluating large language models for precision, bias, and reasoning depth. Strong focus on modular logic, prompt testing, and behavioral quality of AI outputs.
+I engineer intelligent systems that don't just "chat"—they **remember**, **reason**, and **execute**. My focus is on building production-grade AI pipelines that optimize for traceable logic, modularity, and real-world utility.
 
-Focus areas:  
-- Scalable LLM pipelines  
-- AI pipelines optimized for traceable logic, modularity, and real-world execution. 
-- Human-machine interface tooling
-- Output scoring breakdowns (LLM grading)
-- Domain work (Logic, Ethics, Critique)
-- Systems architecture & reasoning frameworks
-
-Additional areas: numerical reasoning, logic optimization, UI/UX for intelligent systems.  
-Goal: streamlined, modular, and production-grade AI applications.
+Currently building the next generation of AI tools.
 
 ---
+
+### 🛠️ The Tech Stack
+
+I specialize in **Local-First AI Architecture**, keeping data private and processes efficient while leveraging powerful LLMs.
+
+* **Core:** Python, Flask, SQL (SQLite/PostgreSQL)
+* **AI & LLMs:** Google Gemini API (1.5/2.0 Flash), OpenAI
+* **Memory & RAG:** Mem0, Qdrant (Vector Store), RAG Pipelines
+* **DevOps:** GitHub Actions (CI/CD), PythonAnywhere, Git Automation
+* **Tooling:** VS Code, Postman, Linux Environment
+
+---
+
+### 🚀 Featured Work: Autonomous Agent Builder
+
+*Development of a "Gemini Gems" replication with persistent long-term memory.*
+
+I architected and deployed a full-stack application that allows users to create custom AI agents. Unlike standard chatbots, these agents possess **long-term memory** and context awareness.
+
+**Key Engineering Feats:**
+* **Persistent Memory:** Integrated **Mem0** with a local **Qdrant** vector store to allow agents to recall user details across different sessions.
+* **Hybrid Architecture:** Designed a "Local Process" system where sensitive embedding data stays local (using **Sentence-Transformers**) while utilizing cloud LLMs for generation.
+* **Production CI/CD:** Implemented automated deployment pipelines using **GitHub Actions**, enabling "one-click" updates from commit to production server.
+* **Self-Correction:** Engineered robust error handling for API rate limits (429/503) and vector dimension mismatches.
+
+---
+
+### 🧠 Engineering Philosophy
+
+My work evaluates Large Language Models not just for creativity, but for **precision** and **system integration**.
+
+* **Scalable Pipelines:** Moving beyond scripts to build modular applications (Blueprints, Factory Pattern).
+* **Traceable Logic:** Ensuring AI outputs are grounded in provided knowledge (RAG) rather than hallucination.
+* **Human-Machine Interface:** Building clean, functional UIs (HTML/CSS/JS) that make complex AI accessible.
+
+---
+
 
 
 ### Stats
@@ -39,6 +67,10 @@ Goal: streamlined, modular, and production-grade AI applications.
 
 ---
 
-### Links
+
+### 📫 Let's Connect
+
+* **Focus:** Building streamlined, modular, and production-grade AI applications.
+* **Status:** Actively shipping code.
 
 📫 [LinkedIn](https://linkedin.com/in/gevverson-kipkoech)
