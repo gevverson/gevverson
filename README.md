@@ -57,16 +57,15 @@ My work evaluates Large Language Models not just for creativity, but for **preci
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gevverson&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gevverson&layout=compact&langs_count=7&theme=radical"/>
-</div>
+![Gevverson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gevverson&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gevverson&layout=compact&langs_count=7&theme=radical)
 
 ---
 
 ### 📫 Let's Connect
 
-**Focus:** Building streamlined, modular, and production-grade software and AI applications.
+**Focus:** Building streamlined, modular, and production-grade software and AI applications.  
 **Status:** Actively shipping code and open to full-time remote engineering roles.
 
 **[Connect with me on LinkedIn](https://linkedin.com/in/gevverson-kipkoech)** | **[Send me an Email](mailto:gevversonkipkoech@gmail.com)**
