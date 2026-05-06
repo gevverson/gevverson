@@ -1,38 +1,47 @@
-![bg-linkedin](https://github.com/user-attachments/assets/71e1a225-1b58-430d-b3db-a61fbc056217)
-
 # Hi there, I'm Gevverson Kipkoech 👋
 
-### AI Automation Engineer | Full-Stack Python Developer
+**AI Automation Engineer | Full-Stack Developer**
 
-I engineer intelligent systems that don't just "chat"—they **remember**, **reason**, and **execute**. My focus is on building production-grade AI pipelines that optimize for traceable logic, modularity, and real-world utility.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gevverson-kipkoech)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:gevversonkipkoech@gmail.com)
 
-Currently building the next generation of AI tools.
+I engineer intelligent systems that don't just "chat"—they **remember, reason, and execute**. My focus is on building production-grade AI pipelines that optimize for traceable logic, modularity, and real-world utility. 
+
+Currently architecting the next generation of privacy-first AI tools and high-performance algorithmic systems.
 
 ---
 
 ### 🛠️ The Tech Stack
 
-I specialize in **Local-First AI Architecture**, keeping data private and processes efficient while leveraging powerful LLMs.
+I specialize in **Local-First AI Architecture** and scalable web applications, keeping data private and processes efficient while leveraging powerful LLMs.
 
-* **Core:** Python, Flask, SQL (SQLite/PostgreSQL)
-* **AI & LLMs:** Google Gemini API (1.5/2.0 Flash), OpenAI
-* **Memory & RAG:** Mem0, Qdrant (Vector Store), RAG Pipelines
-* **DevOps:** GitHub Actions (CI/CD), PythonAnywhere, Git Automation
-* **Tooling:** VS Code, Postman, Linux Environment
+**Core & Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Frontend & Databases**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**AI, RAG & DevOps**
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
-### 🚀 Featured Work: Autonomous Agent Builder
+### 🚀 Featured Work: Autonomous Agent Architecture
 
-*Development of a "Gemini Gems" replication with persistent long-term memory.*
+I architected and deployed a full-stack Python application that allows users to create custom AI agents. Unlike standard chatbots, these agents possess **long-term memory** and context awareness.
 
-I architected and deployed a full-stack application that allows users to create custom AI agents. Unlike standard chatbots, these agents possess **long-term memory** and context awareness.
-
-**Key Engineering Feats:**
-* **Persistent Memory:** Integrated **Mem0** with a local **Qdrant** vector store to allow agents to recall user details across different sessions.
-* **Hybrid Architecture:** Designed a "Local Process" system where sensitive embedding data stays local (using **Sentence-Transformers**) while utilizing cloud LLMs for generation.
-* **Production CI/CD:** Implemented automated deployment pipelines using **GitHub Actions**, enabling "one-click" updates from commit to production server.
-* **Self-Correction:** Engineered robust error handling for API rate limits (429/503) and vector dimension mismatches.
+*   **Persistent Memory:** Integrated **Mem0** with a local **Qdrant** vector store to allow agents to recall user details across different sessions.
+*   **Hybrid Architecture:** Designed a "Local Process" system where sensitive embedding data stays local (using *Sentence-Transformers*) while utilizing cloud LLMs for generation.
+*   **Production CI/CD:** Implemented automated deployment pipelines using **GitHub Actions**, enabling "one-click" updates from commit to the production server.
+*   **Self-Correction:** Engineered robust, self-healing logic handling for API rate limits (429/503) and vector dimension mismatches to ensure maximum uptime.
 
 ---
 
@@ -40,37 +49,24 @@ I architected and deployed a full-stack application that allows users to create 
 
 My work evaluates Large Language Models not just for creativity, but for **precision** and **system integration**.
 
-* **Scalable Pipelines:** Moving beyond scripts to build modular applications (Blueprints, Factory Pattern).
-* **Traceable Logic:** Ensuring AI outputs are grounded in provided knowledge (RAG) rather than hallucination.
-* **Human-Machine Interface:** Building clean, functional UIs (HTML/CSS/JS) that make complex AI accessible.
+*   **Scalable Pipelines:** Moving beyond basic scripts to build modular, enterprise-ready applications (Blueprints, Factory Pattern).
+*   **Traceable Logic:** Ensuring AI outputs are grounded in provided knowledge (RAG) rather than hallucination.
+*   **Human-Machine Interface:** Building clean, functional UIs to make complex AI accessible and user-friendly.
 
 ---
 
+### 📊 GitHub Analytics
 
-
-### Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gevverson&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/gevverson)  
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gevverson&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gevverson&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gevverson&theme=dracula)
----
-
-### Tech
-
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript&style=flat)
-![FastAPI](https://img.shields.io/badge/FastAPI-async-green?logo=fastapi&style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-LLM-orange?style=flat)
-![Docker](https://img.shields.io/badge/Docker-containers-blue?logo=docker&style=flat)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gevverson&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gevverson&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ---
-
 
 ### 📫 Let's Connect
 
-* **Focus:** Building streamlined, modular, and production-grade AI applications.
-* **Status:** Actively shipping code.
+**Focus:** Building streamlined, modular, and production-grade software and AI applications.
+**Status:** Actively shipping code and open to full-time remote engineering roles.
 
-📫 [LinkedIn](https://linkedin.com/in/gevverson-kipkoech)
+**[Connect with me on LinkedIn](https://linkedin.com/in/gevverson-kipkoech)** | **[Send me an Email](mailto:gevversonkipkoech@gmail.com)**
