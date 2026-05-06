@@ -57,9 +57,8 @@ My work evaluates Large Language Models not just for creativity, but for **preci
 
 ### 📊 GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gevverson&theme=radical&show_icons=true)](https://github.com/gevverson)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gevverson&theme=radical&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gevverson&theme=radical&layout=compact)](https://github.com/gevverson)
 ---
 
 ### 📫 Let's Connect
