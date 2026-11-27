@@ -29,7 +29,7 @@ I design, build and ship backend and full-stack systems end to end: APIs, data m
 
 **[AI Trading Engine](https://github.com/gevverson/ai-trading-bot)**: self-hosted research and paper-trading stack.
 - FastAPI backend, TimescaleDB tick storage, Redis, ChromaDB news memory, MT5 bridge, React dashboard, all in Docker Compose
-- Regime detection (HMM), GARCH volatility, Kalman filtering, Monte Carlo and Kelly position sizing
+- HMM regime detection, Kalman filtering, Bayesian trade scoring, ATR-based volatility and Kelly position sizing
 
 ---
 
